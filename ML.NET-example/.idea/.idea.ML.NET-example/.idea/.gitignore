@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.ML.NET-example.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../:\src\ml.net-example\ML.NET-example\.idea\.idea.ML.NET-example\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
